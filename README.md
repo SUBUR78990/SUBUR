@@ -6,8 +6,8 @@
 
 [![Youtobe: Abash-T channel](https://img.shields.io/youtube/views/12WCu9hTqMM?style=social)](https://youtube.com/channel/UCMYE6BzfRBLVZREX0bxOdhg)
 [![GitHub Abangrombeng212](https://img.shields.io/github/followers/SUBUR.M?label=follow%20github&style=flat-square)](https://github.com/SUBUR78990)
-[![Facebook: SUBUR.M ](https://img.shields.io/badge/Facebook-kakatoji-green)](https://free.facebook.com/profile.php?refid=7)
-[![Telegram SUBUR.M](https://img.shields.io/badge/Telegram-kakatoji-green)](https://telegram.org/dl)
+[![Facebook: SUBUR.M ](https://img.shields.io/badge/Facebook-SUBUR.M-green)](https://free.facebook.com/profile.php?refid=7)
+[![Telegram SUBUR.M](https://img.shields.io/badge/Telegram-SUBUR.M-green)](https://telegram.org/dl)
 <br>
 [![ME kakatoji](https://img.shields.io/badge/ME-DONATE-ff69b4.svg?style=flat)](donasi)
 <br>
