@@ -1,13 +1,20 @@
-### Hi there 👋, my name SUBUR.M
-#### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+<h2> Hi, I'm SUBUR.M 👋</h2>
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=kakatoji&show_icons=true&theme=radical" width="380">
+<p><em>Bug and bot <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br>
+</em></p>
 
-Skills: VUE JS / REACT / JS / HTML / CSS
-
-- 🔭 I’m currently working on this page. 
-saya
-saya
-saya
-mengatakan
+[![Youtobe: Abash-T channel](https://img.shields.io/youtube/views/12WCu9hTqMM?style=social)](https://youtube.com/channel/UCMYE6BzfRBLVZREX0bxOdhg)
+[![GitHub Abangrombeng212](https://img.shields.io/github/followers/kakatoji?label=follow%20github&style=flat-square)](https://github.com/SUBUR78990)
+[![Facebook: SUBUR.M ](https://img.shields.io/badge/Facebook-kakatoji-green)](https://free.facebook.com/profile.php?refid=7)
+[![Telegram SUBUR.M](https://img.shields.io/badge/Telegram-kakatoji-green)](https://telegram.org/dl)
+<br>
+[![ME kakatoji](https://img.shields.io/badge/ME-DONATE-ff69b4.svg?style=flat)](donasi)
+<br>
+[![BANK DANA](https://img.shields.io/badge/$-paypal-ff69b4.svg?style=flat)](088213415826)
+[![BTC  SUBUR.M](https://img.shields.io/badge/BTC-18J2JcnatvqtjrfdLYuqG9ZXcufARLWThm-ff69b4.svg?style=flat)](1PRhb2utduU6LmNZGHYb6RMvKBsrNT1Qds)
+[![DOGE SUBUR.M](https://img.shields.io/badge/DOGE-DSxA2WPRdsPpAmXgv9Jzxdnj8r5PUkCMGt-ff69b4.svg?style=flat)](DB1jUL2myurJLz6TzkFahiUgmX1Jiy7W9U)
+[![LTC SUBUR.M](https://img.shields.io/badge/LTC-MSpzspDtbfJagAA2EQvmVvz7Cjrc3EWcbM-ff69b4.svg?style=flat)](MJoFPmJkcdKDTfCpuvuANvbeUJtDeyHhE1)
+[![TRK SUBUR.M](https://img.shields.io/badge/ETH-0xAf00eF5dac9726a7fF6B8D583383bFAde78E2F77-ff69b4.svg?style=flat)](TQLGwhapGn1kUtUaa73VPks6UJAtnX3PtW)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SUBUR78990&layout=compact)](https://github.com/SUBUR78990)
