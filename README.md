@@ -1,6 +1,6 @@
 
 <h2> Hi, I'm SUBUR.M 👋</h2>
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=kakatoji.M&show_icons=true&theme=radical" width="380">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=kakatoji&show_icons=true&theme=radical" width="380">
 <p><em>Bug and bot <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br>
 </em></p>
 
