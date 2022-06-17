@@ -1,7 +1,7 @@
 
 <h2> Hi, I'm HACKED ID 👋</h2>
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=kakatoji&show_icons=true&theme=radical" width="300">
-<p><em>KUCING GARONG 😅 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100"><br>
+<p><em>KUCING GARONG 😅 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"><br>
 </em></p>
 
 [![Youtobe: Abash-T channel](https://img.shields.io/youtube/views/12WCu9hTqMM?style=social)](https://youtube.com/channel/UCMYE6BzfRBLVZREX0bxOdhg)
