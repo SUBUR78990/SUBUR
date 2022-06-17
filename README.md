@@ -19,7 +19,7 @@
 [![LTC SUBUR.M](https://img.shields.io/badge/LTC-MSpzspDtbfJagAA2EQvmVvz7Cjrc3EWcbM-ff69b4.svg?style=flat)](MJoFPmJkcdKDTfCpuvuANvbeUJtDeyHhE1)
 [![TRK SUBUR.M](https://img.shields.io/badge/ETH-0xAf00eF5dac9726a7fF6B8D583383bFAde78E2F77-ff69b4.svg?style=flat)](TQLGwhapGn1kUtUaa73VPks6UJAtnX3PtW)
 
-[![BTC kakatoji](https://img.shields.io/badge/BTC-18J2JcnatvqtjrfdLYuqG9ZXcufARLWThm-ff69b4.svg?style=flat)]
+[![BTC kakatoji](https://img.shields.io/badge/BTC-18J2JcnatvqtjrfdLYuqG9ZXcufARLWThm-ff69b4.svg?style=flat)
 <br>
 
 
