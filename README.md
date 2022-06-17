@@ -5,7 +5,7 @@
 </em></p>
 
 [![Youtobe: Abash-T channel](https://img.shields.io/youtube/views/12WCu9hTqMM?style=social)](https://youtube.com/channel/UCMYE6BzfRBLVZREX0bxOdhg)
-[![GitHub Abangrombeng212](https://github.com/SUBUR78990/SUBUR/edit/Abangrombeng/README.md)
+[![GitHub Abangrombeng212](https://img.shields.io/github/followers/kakatoji?label=follow%20github&style=flat-square)](https://github.com/SUBUR78990)
 
 
 [![Facebook: SUBUR.M ](https://img.shields.io/badge/Facebook-SUBUR.M-green)](https://free.facebook.com/profile.php?refid=7)
