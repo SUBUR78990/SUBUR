@@ -4,7 +4,7 @@
 <p><em>KUCING GARONG 😅 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"><br>
 </em></p>
 
-[![Youtobe: Abash-T channel](https://img.shields.io/youtube/Subcriber/12WCu9hTqMM?style=social)](https://youtube.com/channel/UCMYE6BzfRBLVZREX0bxOdhg)
+[![Youtobe: Abash-T channel](https://img.shields.io/youtube/Subcribe/12WCu9hTqMM?style=social)](https://youtube.com/channel/UCMYE6BzfRBLVZREX0bxOdhg)
 [![GitHub Abangrombeng212](https://img.shields.io/github/followers/kakatoji?label=follow%20github&style=flat-square)](https://github.com/SUBUR78990)
 
 
