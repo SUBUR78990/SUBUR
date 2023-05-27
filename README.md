@@ -2,7 +2,7 @@
 <h3 align="center">Formerly a student but passionate in programming</h3>
 <h2 align="center"><u>Termux Basic Packages</u></h2>
 <p align="center">
-
+<input type="text" placeholder="Enter your email" />
  - I'm trying to learn HTML, CSS, JavaScript, PHP, C, Python, Shell, Ruby and Java.
  
  - My hobby is reading books, listening music, playing games.
