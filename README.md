@@ -1,7 +1,7 @@
 # Personal data
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FF0000&lines=WELCOME+TO+MY+GITHUB+SUBUR78990+HACKER+INDONESIA)](https://git.io/typing-svg)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=13F755&center=true&vCenter=true&width=435&lines=+WELCOME+TO+GITHUB+MY+SUBUR78890)](https://git.io/typing-svg)
 
 
 
