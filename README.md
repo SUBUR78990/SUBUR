@@ -1,3 +1,10 @@
+# Personal data
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FF0000&lines=WELCOME+TO+MY+GITHUB+SUBUR78990+HACKER)](https://git.io/typing-svg)
+
+
+
+
 </p>
 <h3 align="center">Formerly a student but passionate in programming</h3>
 <h2 align="center"><u>Termux Basic Packages</u></h2>
